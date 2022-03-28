@@ -1,0 +1,57 @@
+{
+    "token": "xoxb-2216596108-2988291163957-0eKhwt809OfopXJteJiDvi9g",
+    "admin_token": "",
+    "teamid_provis": "TFT5AHUG1",
+    "userid_provis": "WR83BUS04",
+    "teamid_digital": "T044MQUHC",
+    "channelid": "CRANWJDQW",
+    "test_channelid": "CRANWJDQW",
+    "signsecret": "f660dd563792886f343cb489c728d36f",
+    "limit": "20",
+    "workspaceMapping": [
+        {
+            "workspaceName":"DIGITAL",
+            "teamId": "T044MQUHC"
+        },
+        {
+            "workspaceName":"LIFESTYLE",
+            "teamId": "T2V46LFR8"
+        },
+        {
+            "workspaceName":"GT&O",
+            "teamId": "T026CHJ36"
+        },
+        {
+            "workspaceName":"DNI",
+            "teamId": "T2TMN117T"
+        },
+        {
+            "workspaceName":"PROVISIONAL",
+            "teamId": "TFT5AHUG1"
+        },
+        {
+            "workspaceName":"CORPORATE",
+            "teamId": "T4RDRFU2V"
+        },
+        {
+            "workspaceName":"FACTUAL",
+            "teamId": "TMF3V0UNR"
+        },    
+        {
+            "workspaceName":"MAGNOLIA",
+            "teamId": "TPGN4PW4B"
+        },
+        {
+            "workspaceName":"OWN",
+            "teamId": "T01550JRA3G"
+        }, 
+        {
+            "workspaceName":"ADSALES&MARKETING",
+            "teamId": "TKE7DBKHS"   
+        }
+    ],
+    "defaultWorkspace":{
+        "workspaceName":"CORPORATE",
+        "teamId": "T4RDRFU2V"
+    }
+}
